@@ -1,0 +1,17 @@
+[{y:1.45,x:0.66,c:"#dd1126",t:"#a5a5a5",p:"OEM R1",fa:[4]},"Esc\n\n\n\nDesktop",{x:0,c:"#393b3b",fa:[4,4]},"!\n1\n\n\n\n\n\nF1",{x:9.66},"_\n-\n\n\n\n\n\nF11","+\n=\n\n\n\n\n\nF12","~\n`","Del"],
+[{x:0.53,p:"OEM R2",w:1.5},"Tab",{x:0},"Q",{x:8.94,fa:[4,4,0,4]},"P\n\n\n×\nProjector","{\n[","}\n]",{w:1.5},"|\n\\"],
+[{x:0.39,p:"OEM R3",w:1.75},"Caps",{fa:[4,4,4]},"A\n\n←\n\nHome",{x:9.2,fa:[4,4,4,4]},":\n;\n\n÷","\"\n'",{w:2.25},"Enter"],
+[{x:0.5,p:"OEM R4",w:2},"Shift",{fa:[4,4,1]},"Z\n\nHome\n\nVol-",{x:8.47},">\n.","?\n/",{w:1.25},"Shift",{w:1.25},"GUI"],
+[{x:0.5,w:1.25},"Ctrl",{w:1.25},"Alt",{x:9.98,w:1.25},"Alt",{w:1.25},"Ctrl","Fn"],
+[{r:8,y:-5.52,x:2.97,p:"OEM R1"},"@\n2\n\n\n\n\n\nF2"],
+[{y:-1,x:3.97},"#\n3\n\n\n\n\n\nF3",{x:0},"$\n4\n\n\n\n\n\nF4","%\n5\n\n\n\n\n\nF5","^\n6\n\n\n\n\n\nF6"],
+[{y:0,x:3.47,p:"OEM R2",fa:[4,4,4]},"W\n\n↑\n\nPgUp",{x:0},"E\n\n\n\nExplorer","R\n\n\n\nCalc","T\n\n\n\nBrowser"],
+[{y:0,x:3.72,p:"OEM R3"},"S\n\n↓\n\nPgDn",{x:0},"D\n\n→\n\nEnd",{fa:[4,4,1],n:true},"F\n\nPgUp\n\nBright-","G\n\n\n\nBright+"],
+[{x:4.22,p:"OEM R4"},"X\n\n\n\nMute","C\n\nEnd\n\nVol+","V\n\nPgDn\n\nPrev","B\n\n\n\nNext"],
+[{x:4.47},"⇓",{a:7,w:2.75},"\n\n\n\nPause/Play"],
+[{r:-8,y:-2.83,x:7.87,p:"OEM R1",a:4},"&\n7\n\n\n\n\n\nF7",{x:0},"*\n8\n\n\n\n\n\nF8","(\n9\n\n\n\n\n\nF9",")\n0\n\n\n\n\n\nF10"],
+[{x:7.37,p:"OEM R2",fa:[4,4,1,4]},"Y\n\n\n7",{x:0},"U\n\n\n8","I\n\n\n9","O\n\n\n-\nSnip"],
+[{x:7.62,p:"OEM R3"},"H\n\n\n4",{x:0,n:true},"J\n\n\n5","K\n\n\n6","L\n\n\n+"],
+[{x:8.12,p:"OEM R4"},"N\n\n\n1","M\n\n\n2","<\n,\n\n3"],
+[{x:7.6,p:"OEM R1",w:2.25},"Backspace\n\n\n0",{p:"OEM R4"},"⇑"]
+
