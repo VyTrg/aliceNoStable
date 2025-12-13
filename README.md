@@ -5,7 +5,7 @@ Take inspiration from [fAuxLICE](https://github.com/brockar/fAuxLICE?tab=readme-
 ## 3d plate/case
 Shout out for open-source keyboard generetor [here](https://github.com/jeffminton/keyboard_stl_generator)
 ### Bottom plate
-![Bottom plate](pimages/bottom_plate.png)
+![Bottom plate](images/bottom_plate.png)
 ### Top plate
-![Top plate](pimages/top_plate.png)
+![Top plate](images/top_plate.png)
 ## Components
